@@ -5,6 +5,6 @@
 ### Hi there 👋  
 - 🔭 I’m currently working on ...   *school student at present*
 - 🌱 I’m currently learning ...   *interested and cool things*
-- 🤔 I’m looking for help with ...  *looking for a internship*
+- 🤔 I’m looking for help with ...  *looking for an internship*
 
 [![HitCount](http://hits.dwyl.com/{tuchg}/{tuchg}.svg)](http://hits.dwyl.com/{tuchg}/{tuchg})
