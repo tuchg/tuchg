@@ -7,4 +7,5 @@
 - 🌱 I’m currently learning ...   *interested and cool things*
 - 🤔 I’m looking for help with ...  *looking for an internship*
 
-[![HitCount](http://hits.dwyl.com/{tuchg}/{tuchg}.svg)](http://hits.dwyl.com/{tuchg}/{tuchg})
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuchg&layout=compact&hide=html,vue)](https://github.com/tuchg/github-readme-stats)
