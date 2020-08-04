@@ -8,6 +8,6 @@
 ### Hi there 👋  
 - 🔭 I’m currently working on ...   *school student at present*
 - 🌱 I’m currently learning ...   *interested and cool things*
-- 🤔 I’m looking for help with ...  *looking for an internship*
+- 🤔 I’m looking for help with ...  *an internship chance*
 
 
