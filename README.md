@@ -10,4 +10,6 @@
 - 🌱 I’m currently learning ...   *interested and cool things*
 - 🤔 I’m looking for help with ...  *an internship chance*
 
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=tuchg/ChinesePinyin-CodeCompletionHelper,tuchg/SimpleICVEMOOCHelper&type=Date)](https://star-history.com/#tuchg/ChinesePinyin-CodeCompletionHelper&tuchg/SimpleICVEMOOCHelper&Date)
