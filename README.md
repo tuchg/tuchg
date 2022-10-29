@@ -10,8 +10,8 @@
 
 
 
-- 🌱 I’m currently learning **sicp/rust/wasm/frontend**
-- 🔭 I’m currently working on ...   *school student at present*
+- 🌱 I’m currently learning **sicp/rust/wasm**
+- 🔭 I’m currently working on ... *school student at present*
 - 🤔 I’m looking for help with ...
 
 
