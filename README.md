@@ -1,17 +1,11 @@
 
 <hr>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tuchg&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_border=true&include_all_commits=false&hide_title=true&layout=compact" alt="tuchg" />
-
-
 ### Hi 👋, I'm tuchg
 
-
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tuchg&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_border=true&include_all_commits=false&hide_title=true&layout=compact" alt="tuchg" />
 
 #### A full-stack developer, creator and player
-
-
 
 - 🌱 I’m currently learning **sicp/rust/wasm**
 - 🔭 I’m currently working on ... *school student at present*
@@ -19,6 +13,7 @@
 
 
 #### Languages and Tools:
+
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
