@@ -15,14 +15,4 @@
 #### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=rust,ts,kotlin,java,python,go,docker,androidstudio,wasm,redis,sqlite,figma&theme=light)](https://skillicons.dev)
 
-#### Star History:
-
-<a href="https://star-history.com/#tuchg/ChinesePinyin-CodeCompletionHelper&tuchg/vuec-rs&tuchg/SimpleICVEMOOCHelper&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=tuchg/ChinesePinyin-CodeCompletionHelper%2Ctuchg/vuec-rs%2Ctuchg/SimpleICVEMOOCHelper&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=tuchg/ChinesePinyin-CodeCompletionHelper%2Ctuchg/vuec-rs%2Ctuchg/SimpleICVEMOOCHelper&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=tuchg/ChinesePinyin-CodeCompletionHelper%2Ctuchg/vuec-rs%2Ctuchg/SimpleICVEMOOCHelper&type=Date" />
-  </picture>
-</a>
-
 ![gh_visitors](https://profile-counter.glitch.me/tuchg/count.svg)
