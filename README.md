@@ -1,7 +1,7 @@
 
 <hr>
 
-### Hi 👋, I'm tuchg
+### Hi 👋, I'm tuchg <img align="right" align="center" src="https://komarev.com/ghpvc/?username=tuchg&style=flat-square&label=views&abbreviated=true" alt="tuchg's GitHub Profile Views" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tuchg&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_border=true&include_all_commits=false&hide_title=true&layout=compact" alt="tuchg" />
 
@@ -14,5 +14,3 @@
 
 #### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=rust,ts,kotlin,java,python,go,docker,androidstudio,wasm,redis,sqlite,figma&theme=light)](https://skillicons.dev)
-
-![gh_visitors](https://profile-counter.glitch.me/tuchg/count.svg)
