@@ -8,7 +8,7 @@
 #### A full-stack developer👨‍💻, creator🧙‍♂️ & player🤹
 
 - 🌱 I’m currently learning **aigc/sicp/rust/wasm**.
-- 🔭 I’m currently developing nothing.
+- 🔭 I’m currently learning trading.
 - 🤔 I’m looking for help with ...
 
 
